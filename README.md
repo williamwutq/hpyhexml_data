@@ -16,6 +16,8 @@ All data an code in this repository is released under the [CC0 1.0 Universal (CC
 - The `hpyhex` Python package is **not** included in this repository.
 - For the game code and the relevant python packages, please visit the main HappyHex repository:
   [github.com/williamwutq/game_HappyHex](https://github.com/williamwutq/game_HappyHex)
+- For modernized hpyhex package, please visit the hpyhex package in the hpyhexml repository: 
+  [github.com/williamwutq/hpyhexml](https://github.com/williamwutq/hpyhexml/tree/main/hpyhex)
 
 ## Usage
 
